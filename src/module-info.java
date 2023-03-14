@@ -1,0 +1,3 @@
+module FinalGit {
+	exports FinalgitPac;
+}
